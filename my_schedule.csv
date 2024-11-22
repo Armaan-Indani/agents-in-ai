@@ -1,0 +1,561 @@
+DayOfWeek,Time,Is_Holiday,Activity
+0,06:00,1,Football
+0,07:00,1,Football
+0,08:00,1,Football
+0,09:00,1,Football
+0,10:00,1,Breakfast
+0,11:00,1,Leetcode
+0,12:00,1,Leetcode
+0,13:00,1,Lunch
+0,14:00,1,Meet friends
+0,15:00,1,Meet friends
+0,16:00,1,Meet friends
+0,17:00,1,Project Work
+0,18:00,1,Interact Work
+0,19:00,1,Dinner
+0,20:00,1,Reading
+0,21:00,1,Plan next week
+1,06:00,0,Leetcode
+1,07:00,0,Breakfast
+1,08:00,0,Class - DBMS
+1,09:00,0,Class - AWS SA
+1,10:00,0,Class - CN
+1,11:00,0,Class - OS
+1,12:00,0,Class - STS
+1,13:00,0,Lunch
+1,14:00,0,Class - CN Lab
+1,15:00,0,Class - CN Lab
+1,16:00,0,Class - CD Lab
+1,17:00,0,Class - CD Lab
+1,18:00,0,Interact Work
+1,19:00,0,Dinner
+1,20:00,0,Reading
+1,21:00,0,Academic Work
+2,06:00,1,Football
+2,07:00,1,Football
+2,08:00,1,Football
+2,09:00,1,Football
+2,10:00,1,Breakfast
+2,11:00,1,Leetcode
+2,12:00,1,Leetcode
+2,13:00,1,Lunch
+2,14:00,1,Meet friends
+2,15:00,1,Meet friends
+2,16:00,1,Meet friends
+2,17:00,1,Project Work
+2,18:00,1,Interact Work
+2,19:00,1,Dinner
+2,20:00,1,Reading
+2,21:00,1,Relax
+3,06:00,0,Leetcode
+3,07:00,0,Breakfast
+3,08:00,0,Class - CD
+3,09:00,0,Class - DBMS
+3,10:00,0,Class - AWS SA
+3,11:00,0,Academic Work
+3,12:00,0,Academic Work
+3,13:00,0,Lunch
+3,14:00,0,Project Work
+3,15:00,0,Interact Work
+3,16:00,0,LeetCode
+3,17:00,0,LeetCode
+3,18:00,0,Class - OS Lab
+3,19:00,0,Dinner
+3,20:00,0,Reading
+3,21:00,0,Academic Work
+4,06:00,0,Leetcode
+4,07:00,0,Breakfast
+4,08:00,0,Class - CN
+4,09:00,0,Class - OS
+4,10:00,0,Class - STS
+4,11:00,0,Class - AI
+4,12:00,0,Academic Work
+4,13:00,0,Lunch
+4,14:00,0,Leetcode
+4,15:00,0,Leetcode
+4,16:00,0,Project Work
+4,17:00,0,Interact Work
+4,18:00,0,Interact Work
+4,19:00,0,Dinner
+4,20:00,0,Reading
+4,21:00,0,Academic Work
+5,06:00,0,Leetcode
+5,07:00,0,Breakfast
+5,08:00,0,Class - AI
+5,09:00,0,Class - CD
+5,10:00,0,Class - DBMS
+5,11:00,0,Class - AWS SA
+5,12:00,0,Class - CN
+5,13:00,0,Lunch
+5,14:00,0,Leetcode
+5,15:00,0,Leetcode
+5,16:00,0,Project Work
+5,17:00,0,Interact Work
+5,18:00,0,Interact Work
+5,19:00,0,Dinner
+5,20:00,0,Reading
+5,21:00,0,Academic Work
+6,06:00,1,Football
+6,07:00,1,Football
+6,08:00,1,Football
+6,09:00,1,Football
+6,10:00,1,Breakfast
+6,11:00,1,Leetcode
+6,12:00,1,Leetcode
+6,13:00,1,Lunch
+6,14:00,1,Meet friends
+6,15:00,1,Meet friends
+6,16:00,1,Meet friends
+6,17:00,1,Project Work
+6,18:00,1,Interact Work
+6,19:00,1,Dinner
+6,20:00,1,Reading
+6,21:00,1,Movie
+0,06:00,1,Football
+0,07:00,1,Football
+0,08:00,1,Football
+0,09:00,1,Football
+0,10:00,1,Breakfast
+0,11:00,1,Leetcode
+0,12:00,1,Leetcode
+0,13:00,1,Lunch
+0,14:00,1,Meet friends
+0,15:00,1,Meet friends
+0,16:00,1,Meet friends
+0,17:00,1,Project Work
+0,18:00,1,Interact Work
+0,19:00,1,Dinner
+0,20:00,1,Reading
+0,21:00,1,Plan next week
+1,06:00,0,Leetcode
+1,07:00,0,Breakfast
+1,08:00,0,Class - DBMS
+1,09:00,0,Class - AWS SA
+1,10:00,0,Class - CN
+1,11:00,0,Class - OS
+1,12:00,0,Class - STS
+1,13:00,0,Lunch
+1,14:00,0,Class - CN Lab
+1,15:00,0,Class - CN Lab
+1,16:00,0,Class - CD Lab
+1,17:00,0,Class - CD Lab
+1,18:00,0,Interact Work
+1,19:00,0,Dinner
+1,20:00,0,Reading
+1,21:00,0,Academic Work
+2,06:00,0,Leetcode
+2,07:00,0,Breakfast
+2,08:00,0,Class - OS
+2,09:00,0,Class - STS
+2,10:00,0,Class - AI
+2,11:00,0,Class - CD
+2,12:00,0,Academic Work
+2,13:00,0,Lunch
+2,14:00,0,Project Work
+2,15:00,0,Project Work
+2,16:00,0,Class - DBMS Lab
+2,17:00,0,Class - DBMS Lab
+2,18:00,0,Interact Work
+2,19:00,0,Dinner
+2,20:00,0,Reading
+2,21:00,0,Academic Work
+3,06:00,0,Leetcode
+3,07:00,0,Breakfast
+3,08:00,0,Class - CD
+3,09:00,0,Class - DBMS
+3,10:00,0,Class - AWS SA
+3,11:00,0,Academic Work
+3,12:00,0,Academic Work
+3,13:00,0,Lunch
+3,14:00,0,Project Work
+3,15:00,0,Interact Work
+3,16:00,0,LeetCode
+3,17:00,0,LeetCode
+3,18:00,0,Class - OS Lab
+3,19:00,0,Dinner
+3,20:00,0,Reading
+3,21:00,0,Academic Work
+4,06:00,0,Leetcode
+4,07:00,0,Breakfast
+4,08:00,0,Class - CN
+4,09:00,0,Class - OS
+4,10:00,0,Class - STS
+4,11:00,0,Class - AI
+4,12:00,0,Academic Work
+4,13:00,0,Lunch
+4,14:00,0,Leetcode
+4,15:00,0,Leetcode
+4,16:00,0,Project Work
+4,17:00,0,Interact Work
+4,18:00,0,Interact Work
+4,19:00,0,Dinner
+4,20:00,0,Reading
+4,21:00,0,Academic Work
+5,06:00,0,Leetcode
+5,07:00,0,Breakfast
+5,08:00,0,Class - AI
+5,09:00,0,Class - CD
+5,10:00,0,Class - DBMS
+5,11:00,0,Class - AWS SA
+5,12:00,0,Class - CN
+5,13:00,0,Lunch
+5,14:00,0,Leetcode
+5,15:00,0,Leetcode
+5,16:00,0,Project Work
+5,17:00,0,Interact Work
+5,18:00,0,Interact Work
+5,19:00,0,Dinner
+5,20:00,0,Reading
+5,21:00,0,Academic Work
+6,06:00,0,Football
+6,07:00,0,Football
+6,08:00,0,Football
+6,09:00,0,Football
+6,10:00,0,Breakfast
+6,11:00,0,Leetcode
+6,12:00,0,Leetcode
+6,13:00,0,Lunch
+6,14:00,0,Meet friends
+6,15:00,0,Meet friends
+6,16:00,0,Meet friends
+6,17:00,0,Project Work
+6,18:00,0,Interact Work
+6,19:00,0,Dinner
+6,20:00,0,Reading
+6,21:00,0,Movie
+0,06:00,0,Football
+0,07:00,0,Football
+0,08:00,0,Football
+0,09:00,0,Football
+0,10:00,0,Breakfast
+0,11:00,0,Leetcode
+0,12:00,0,Leetcode
+0,13:00,0,Lunch
+0,14:00,0,Meet friends
+0,15:00,0,Meet friends
+0,16:00,0,Meet friends
+0,17:00,0,Project Work
+0,18:00,0,Interact Work
+0,19:00,0,Dinner
+0,20:00,0,Reading
+0,21:00,0,Plan next week
+1,06:00,0,Leetcode
+1,07:00,0,Breakfast
+1,08:00,0,Class - DBMS
+1,09:00,0,Class - AWS SA
+1,10:00,0,Class - CN
+1,11:00,0,Class - OS
+1,12:00,0,Class - STS
+1,13:00,0,Lunch
+1,14:00,0,Class - CN Lab
+1,15:00,0,Class - CN Lab
+1,16:00,0,Class - CD Lab
+1,17:00,0,Class - CD Lab
+1,18:00,0,Interact Work
+1,19:00,0,Dinner
+1,20:00,0,Reading
+1,21:00,0,Academic Work
+2,06:00,0,Leetcode
+2,07:00,0,Breakfast
+2,08:00,0,Class - OS
+2,09:00,0,Class - STS
+2,10:00,0,Class - AI
+2,11:00,0,Class - CD
+2,12:00,0,Academic Work
+2,13:00,0,Lunch
+2,14:00,0,Project Work
+2,15:00,0,Project Work
+2,16:00,0,Class - DBMS Lab
+2,17:00,0,Class - DBMS Lab
+2,18:00,0,Interact Work
+2,19:00,0,Dinner
+2,20:00,0,Reading
+2,21:00,0,Academic Work
+3,06:00,0,Leetcode
+3,07:00,0,Breakfast
+3,08:00,0,Class - CD
+3,09:00,0,Class - DBMS
+3,10:00,0,Class - AWS SA
+3,11:00,0,Academic Work
+3,12:00,0,Academic Work
+3,13:00,0,Lunch
+3,14:00,0,Project Work
+3,15:00,0,Interact Work
+3,16:00,0,LeetCode
+3,17:00,0,LeetCode
+3,18:00,0,Class - OS Lab
+3,19:00,0,Dinner
+3,20:00,0,Reading
+3,21:00,0,Academic Work
+4,06:00,0,Leetcode
+4,07:00,0,Breakfast
+4,08:00,0,Class - CN
+4,09:00,0,Class - OS
+4,10:00,0,Class - STS
+4,11:00,0,Class - AI
+4,12:00,0,Academic Work
+4,13:00,0,Lunch
+4,14:00,0,Leetcode
+4,15:00,0,Leetcode
+4,16:00,0,Project Work
+4,17:00,0,Interact Work
+4,18:00,0,Interact Work
+4,19:00,0,Dinner
+4,20:00,0,Reading
+4,21:00,0,Academic Work
+5,06:00,0,Leetcode
+5,07:00,0,Breakfast
+5,08:00,0,Class - AI
+5,09:00,0,Class - CD
+5,10:00,0,Class - DBMS
+5,11:00,0,Class - AWS SA
+5,12:00,0,Class - CN
+5,13:00,0,Lunch
+5,14:00,0,Leetcode
+5,15:00,0,Leetcode
+5,16:00,0,Project Work
+5,17:00,0,Interact Work
+5,18:00,0,Interact Work
+5,19:00,0,Dinner
+5,20:00,0,Reading
+5,21:00,0,Academic Work
+6,06:00,0,Football
+6,07:00,0,Football
+6,08:00,0,Football
+6,09:00,0,Football
+6,10:00,0,Breakfast
+6,11:00,0,Leetcode
+6,12:00,0,Leetcode
+6,13:00,0,Lunch
+6,14:00,0,Meet friends
+6,15:00,0,Meet friends
+6,16:00,0,Meet friends
+6,17:00,0,Project Work
+6,18:00,0,Interact Work
+6,19:00,0,Dinner
+6,20:00,0,Reading
+6,21:00,0,Movie
+0,06:00,0,Football
+0,07:00,0,Football
+0,08:00,0,Football
+0,09:00,0,Football
+0,10:00,0,Breakfast
+0,11:00,0,Leetcode
+0,12:00,0,Leetcode
+0,13:00,0,Lunch
+0,14:00,0,Meet friends
+0,15:00,0,Meet friends
+0,16:00,0,Meet friends
+0,17:00,0,Project Work
+0,18:00,0,Interact Work
+0,19:00,0,Dinner
+0,20:00,0,Reading
+0,21:00,0,Plan next week
+1,06:00,0,Leetcode
+1,07:00,0,Breakfast
+1,08:00,0,Class - DBMS
+1,09:00,0,Class - AWS SA
+1,10:00,0,Class - CN
+1,11:00,0,Class - OS
+1,12:00,0,Class - STS
+1,13:00,0,Lunch
+1,14:00,0,Class - CN Lab
+1,15:00,0,Class - CN Lab
+1,16:00,0,Class - CD Lab
+1,17:00,0,Class - CD Lab
+1,18:00,0,Interact Work
+1,19:00,0,Dinner
+1,20:00,0,Reading
+1,21:00,0,Academic Work
+2,06:00,0,Leetcode
+2,07:00,0,Breakfast
+2,08:00,0,Class - OS
+2,09:00,0,Class - STS
+2,10:00,0,Class - AI
+2,11:00,0,Class - CD
+2,12:00,0,Academic Work
+2,13:00,0,Lunch
+2,14:00,0,Project Work
+2,15:00,0,Project Work
+2,16:00,0,Class - DBMS Lab
+2,17:00,0,Class - DBMS Lab
+2,18:00,0,Interact Work
+2,19:00,0,Dinner
+2,20:00,0,Reading
+2,21:00,0,Academic Work
+3,06:00,0,Leetcode
+3,07:00,0,Breakfast
+3,08:00,0,Class - CD
+3,09:00,0,Class - DBMS
+3,10:00,0,Class - AWS SA
+3,11:00,0,Academic Work
+3,12:00,0,Academic Work
+3,13:00,0,Lunch
+3,14:00,0,Project Work
+3,15:00,0,Interact Work
+3,16:00,0,LeetCode
+3,17:00,0,LeetCode
+3,18:00,0,Class - OS Lab
+3,19:00,0,Dinner
+3,20:00,0,Reading
+3,21:00,0,Academic Work
+4,06:00,0,Leetcode
+4,07:00,0,Breakfast
+4,08:00,0,Class - CN
+4,09:00,0,Class - OS
+4,10:00,0,Class - STS
+4,11:00,0,Class - AI
+4,12:00,0,Academic Work
+4,13:00,0,Lunch
+4,14:00,0,Leetcode
+4,15:00,0,Leetcode
+4,16:00,0,Project Work
+4,17:00,0,Interact Work
+4,18:00,0,Interact Work
+4,19:00,0,Dinner
+4,20:00,0,Reading
+4,21:00,0,Academic Work
+5,06:00,0,Leetcode
+5,07:00,0,Breakfast
+5,08:00,0,Class - AI
+5,09:00,0,Class - CD
+5,10:00,0,Class - DBMS
+5,11:00,0,Class - AWS SA
+5,12:00,0,Class - CN
+5,13:00,0,Lunch
+5,14:00,0,Leetcode
+5,15:00,0,Leetcode
+5,16:00,0,Project Work
+5,17:00,0,Interact Work
+5,18:00,0,Interact Work
+5,19:00,0,Dinner
+5,20:00,0,Reading
+5,21:00,0,Academic Work
+6,06:00,0,Football
+6,07:00,0,Football
+6,08:00,0,Football
+6,09:00,0,Football
+6,10:00,0,Breakfast
+6,11:00,0,Leetcode
+6,12:00,0,Leetcode
+6,13:00,0,Lunch
+6,14:00,0,Meet friends
+6,15:00,0,Meet friends
+6,16:00,0,Meet friends
+6,17:00,0,Project Work
+6,18:00,0,Interact Work
+6,19:00,0,Dinner
+6,20:00,0,Reading
+6,21:00,0,Movie
+0,06:00,0,Football
+0,07:00,0,Football
+0,08:00,0,Football
+0,09:00,0,Football
+0,10:00,0,Breakfast
+0,11:00,0,Leetcode
+0,12:00,0,Leetcode
+0,13:00,0,Lunch
+0,14:00,0,Meet friends
+0,15:00,0,Meet friends
+0,16:00,0,Meet friends
+0,17:00,0,Project Work
+0,18:00,0,Interact Work
+0,19:00,0,Dinner
+0,20:00,0,Reading
+0,21:00,0,Plan next week
+1,06:00,0,Leetcode
+1,07:00,0,Breakfast
+1,08:00,0,Class - DBMS
+1,09:00,0,Class - AWS SA
+1,10:00,0,Class - CN
+1,11:00,0,Class - OS
+1,12:00,0,Class - STS
+1,13:00,0,Lunch
+1,14:00,0,Class - CN Lab
+1,15:00,0,Class - CN Lab
+1,16:00,0,Class - CD Lab
+1,17:00,0,Class - CD Lab
+1,18:00,1,Interact Work
+1,19:00,0,Dinner
+1,20:00,0,Reading
+1,21:00,0,Academic Work
+2,06:00,0,Leetcode
+2,07:00,0,Breakfast
+2,08:00,0,Class - OS
+2,09:00,0,Class - STS
+2,10:00,0,Class - AI
+2,11:00,0,Class - CD
+2,12:00,0,Academic Work
+2,13:00,0,Lunch
+2,14:00,0,Project Work
+2,15:00,0,Project Work
+2,16:00,0,Class - DBMS Lab
+2,17:00,0,Class - DBMS Lab
+2,18:00,0,Interact Work
+2,19:00,0,Dinner
+2,20:00,0,Reading
+2,21:00,0,Academic Work
+3,06:00,0,Leetcode
+3,07:00,0,Breakfast
+3,08:00,0,Class - CD
+3,09:00,0,Class - DBMS
+3,10:00,0,Class - AWS SA
+3,11:00,0,Academic Work
+3,12:00,0,Academic Work
+3,13:00,0,Lunch
+3,14:00,0,Project Work
+3,15:00,0,Interact Work
+3,16:00,0,LeetCode
+3,17:00,0,LeetCode
+3,18:00,0,Class - OS Lab
+3,19:00,0,Dinner
+3,20:00,0,Reading
+3,21:00,0,Academic Work
+4,06:00,0,Leetcode
+4,07:00,0,Breakfast
+4,08:00,0,Class - CN
+4,09:00,0,Class - OS
+4,10:00,0,Class - STS
+4,11:00,0,Class - AI
+4,12:00,0,Academic Work
+4,13:00,0,Lunch
+4,14:00,0,Leetcode
+4,15:00,0,Leetcode
+4,16:00,0,Project Work
+4,17:00,0,Interact Work
+4,18:00,0,Interact Work
+4,19:00,0,Dinner
+4,20:00,0,Reading
+4,21:00,0,Academic Work
+5,06:00,0,Leetcode
+5,07:00,0,Breakfast
+5,08:00,0,Class - AI
+5,09:00,0,Class - CD
+5,10:00,0,Class - DBMS
+5,11:00,0,Class - AWS SA
+5,12:00,0,Class - CN
+5,13:00,0,Lunch
+5,14:00,0,Leetcode
+5,15:00,0,Leetcode
+5,16:00,0,Project Work
+5,17:00,0,Interact Work
+5,18:00,0,Interact Work
+5,19:00,0,Dinner
+5,20:00,0,Reading
+5,21:00,0,Academic Work
+6,06:00,0,Football
+6,07:00,0,Football
+6,08:00,0,Football
+6,09:00,0,Football
+6,10:00,0,Breakfast
+6,11:00,0,Leetcode
+6,12:00,0,Leetcode
+6,13:00,0,Lunch
+6,14:00,0,Meet friends
+6,15:00,0,Meet friends
+6,16:00,0,Meet friends
+6,17:00,0,Project Work
+6,18:00,0,Interact Work
+6,19:00,0,Dinner
+6,20:00,0,Reading
+6,21:00,0,Movie

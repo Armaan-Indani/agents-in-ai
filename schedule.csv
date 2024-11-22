@@ -1,0 +1,11 @@
+date,day,course,start_time,end_time,topic,importance
+2024-08-21,Wednesday,DBMS,08:00,08:50,Normalization,8
+2024-08-22,Thursday,Artificial Intelligence,09:00,09:50,Neural Networks,9
+2024-08-23,Friday,Compiler Design,09:00,09:50,Code Optimization,7
+2024-08-24,Thursday,Computer Networks,10:00,10:50,OSI Model,5
+2024-08-25,Friday,Operating Systems,11:00,11:50,Memory Management,6
+2024-08-26,Monday,DBMS,08:00,08:50,Indexing,7
+2024-08-27,Tuesday,Artificial Intelligence,09:00,09:50,Machine Learning Algorithms,6
+2024-08-28,Wednesday,Compiler Design,10:00,10:50,Syntax Analysis,9
+2024-08-29,Thursday,Computer Networks,11:00,11:50,TCP/IP,8
+2024-08-30,Friday,Operating Systems,12:00,12:50,File Systems,7
